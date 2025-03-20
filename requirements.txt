@@ -1,0 +1,8 @@
+ollama
+openmeteo-requests
+geopy
+requests-cache
+retry-requests
+streamlit
+streamlit-chat
+datetime
